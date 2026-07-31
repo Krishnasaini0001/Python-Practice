@@ -1,0 +1,3 @@
+Write a program to automate this verification process using loops and conditional statements. Input: 4215 Output: Reverse = 5124Difference = 909Digits = 3Verified Input: 1221 Output: Reverse = 1221Difference = 0Digits = 1Perfect Match Input: 1234 Output: Reverse = 4321Difference = 3087Digits = 4Verified
+
+
