@@ -1,6 +1,8 @@
-# Day 3: for loops
+# Day 1: Basic variables, input, and f-strings
 
-number = int(input("Enter a number: "))
+name = input("What's your name? ")
+age = int(input("How old are you? "))
 
-for i in range(1, 11):
-    print(f"{number} x {i} = {number * i}")
+next_year_age = age + 1
+
+print(f"Hi {name}! Next year you'll turn {next_year_age}.")
