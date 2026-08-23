@@ -1,2 +1,0 @@
-functions :-
-create a calculator thats perform a (= ,- , * , / )
