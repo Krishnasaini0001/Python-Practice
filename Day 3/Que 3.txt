@@ -1,8 +1,0 @@
-Write a program to:
-
-Find the absolute difference between every pair of adjacent digits
-Display all step differences
-Find the sum of all step differences
-Find the largest step difference
-If the sum of step differences is divisible by the number of digits, print Balanced Number
-Otherwise print Unbalanced Number

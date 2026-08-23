@@ -1,9 +1,6 @@
-# Day 2: if/else conditionals
+# Day 3: for loops
 
-age = int(input("How old are you? "))
+number = int(input("Enter a number: "))
 
-if age >= 18:
-    print("You're an adult.")
-else:
-    years_left = 18 - age
-    print(f"You have {years_left} years until you're an adult.")
+for i in range(1, 11):
+    print(f"{number} x {i} = {number * i}")
