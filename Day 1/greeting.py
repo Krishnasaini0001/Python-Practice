@@ -1,8 +1,9 @@
-# Day 1: Basic variables, input, and f-strings
+# Day 2: if/else conditionals
 
-name = input("What's your name? ")
 age = int(input("How old are you? "))
 
-next_year_age = age + 1
-
-print(f"Hi {name}! Next year you'll turn {next_year_age}.")
+if age >= 18:
+    print("You're an adult.")
+else:
+    years_left = 18 - age
+    print(f"You have {years_left} years until you're an adult.")
