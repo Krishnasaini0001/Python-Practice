@@ -12,3 +12,4 @@
 | 9 | 2026-08-24 | Writing/appending to files |
 | 10 | 2026-08-24 | try/except error handling |
 | 11 | 2026-08-25| String methods - password checker |
+| 12 | 2026-08-26 | List comprehensions |
