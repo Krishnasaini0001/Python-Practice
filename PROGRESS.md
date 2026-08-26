@@ -11,4 +11,4 @@
 | 8 | 2026-08-23 | Reading files with open() |
 | 9 | 2026-08-24 | Writing/appending to files |
 | 10 | 2026-08-24 | try/except error handling |
-| 11 | date | String methods - password checker |
+| 11 | 2026-08-25| String methods - password checker |
