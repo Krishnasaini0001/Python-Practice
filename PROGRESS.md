@@ -13,3 +13,4 @@
 | 10 | 2026-08-24 | try/except error handling |
 | 11 | 2026-08-25| String methods - password checker |
 | 12 | 2026-08-26 | List comprehensions |
+| 13 | 2026-08-27 | Reading/writing JSON |
