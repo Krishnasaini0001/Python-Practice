@@ -11,7 +11,8 @@
 | 8 | 2026-08-23 | Reading files with open() |
 | 9 | 2026-08-24 | Writing/appending to files |
 | 10 | 2026-08-24 | try/except error handling |
-| 11 | 2026-08-25| String methods - password checker |
+| 11 | 2026-08-25 | String methods - password checker |
 | 12 | 2026-08-26 | List comprehensions |
 | 13 | 2026-08-27 | Reading/writing JSON |
-| 14 | 2026-08-28| To-do list with JSON persistence |
+| 14 | 2026-08-28 | To-do list with JSON persistence |
+| 15 | 2026-08-29 | Classes and objects intro |
