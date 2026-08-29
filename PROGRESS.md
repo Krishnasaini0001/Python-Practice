@@ -16,3 +16,4 @@
 | 13 | 2026-08-27 | Reading/writing JSON |
 | 14 | 2026-08-28 | To-do list with JSON persistence |
 | 15 | 2026-08-29 | Classes and objects intro |
+| 16 | 2026-08-30 | Class methods - bank account |
