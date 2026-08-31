@@ -17,3 +17,4 @@
 | 14 | 2026-08-28 | To-do list with JSON persistence |
 | 15 | 2026-08-29 | Classes and objects intro |
 | 16 | 2026-08-30 | Class methods - bank account |
+| 17 | 2026-08-31 | Creating/importing your own module |
