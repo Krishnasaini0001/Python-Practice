@@ -1,5 +1,5 @@
 # Day 18: your first external library
-# install first: pip install requests
+
 
 import requests
 
