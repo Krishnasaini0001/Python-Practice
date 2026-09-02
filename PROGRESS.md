@@ -18,4 +18,5 @@
 | 15 | 2026-08-29 | Classes and objects intro |
 | 16 | 2026-08-30 | Class methods - bank account |
 | 17 | 2026-08-31 | Creating/importing your own module |
-| 18 | 2026-09-01| External library + API call (requests) |
+| 18 | 2026-09-01 | External library + API call (requests) |
+| 19 | 2026-09-02 | Intro to pandas - CSV, stats |
