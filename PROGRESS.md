@@ -22,3 +22,4 @@
 | 19 | 2026-09-02 | Intro to pandas - CSV, stats |
 | 20 | 2026_09-03 | First ML model - decision tree (scikit-learn) |
 | 21 | 2026-09-04 | pandas + sklearn on Iris dataset |
+| 22 | 2026-09-05 | Data visualization with matplotlib |
