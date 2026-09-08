@@ -1,4 +1,3 @@
-
 | Day | Date | What I learned |
 |-----|------|-----------------|
 | 1 | 2026-08-21 | Variables, input(), type conversion, f-strings |
@@ -25,3 +24,4 @@
 | 22 | 2026-09-05 | Data visualization with matplotlib |
 | 23 | 2026-09-06 | Data cleaning - duplicates, missing values |
 | 24 | 2026-09-07 | Linear regression - exam score prediction |
+| 25 | 2026-09-08 | Logistic regression - pass/fail classifier |
