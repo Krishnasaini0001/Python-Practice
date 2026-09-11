@@ -27,3 +27,4 @@
 | 25 | 2026-09-08 | Logistic regression - pass/fail classifier |
 | 26 | 2026-09-09 | Model evaluation - precision, recall, confusion matrix |
 | 27 | 2026-09-10 | Word frequency counter |
+| 28 | 2026-09-11 | NumPy arrays and operations |
