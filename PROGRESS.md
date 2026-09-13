@@ -29,3 +29,4 @@
 | 27 | 2026-09-10 | Word frequency counter |
 | 28 | 2026-09-11 | NumPy arrays and operations |
 | 29 | 2026-09-12 | NumPy for grade statistics |
+| 30 | 2026-09-13 | Mini project - house price predictor |
