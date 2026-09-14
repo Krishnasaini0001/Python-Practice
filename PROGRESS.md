@@ -30,3 +30,4 @@
 | 28 | 2026-09-11 | NumPy arrays and operations |
 | 29 | 2026-09-12 | NumPy for grade statistics |
 | 30 | 2026-09-13 | Mini project - house price predictor |
+| 31 | 2026-09-14 | Public weather API |
