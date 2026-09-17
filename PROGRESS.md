@@ -33,3 +33,4 @@
 | 31 | 2026-09-14 | Public weather API |
 | 32 | 2026-09-15 | Web scraping with BeautifulSoup |
 | 33 | 2026-09-16 | Scraping + saving to CSV |
+| 34 | 2026-09-17 | Virtual environments and requirements.txt |
