@@ -34,3 +34,4 @@
 | 32 | 2026-09-15 | Web scraping with BeautifulSoup |
 | 33 | 2026-09-16 | Scraping + saving to CSV |
 | 34 | 2026-09-17 | Virtual environments and requirements.txt |
+| 35 | 2026-09-18 | Unit testing with unittest |
