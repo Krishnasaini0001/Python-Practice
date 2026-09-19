@@ -35,3 +35,4 @@
 | 33 | 2026-09-16 | Scraping + saving to CSV |
 | 34 | 2026-09-17 | Virtual environments and requirements.txt |
 | 35 | 2026-09-18 | Unit testing with unittest |
+| 36 | 2026-09-19 CLI tool with argparse |
