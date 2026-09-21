@@ -37,3 +37,4 @@
 | 35 | 2026-09-18 | Unit testing with unittest |
 | 36 | 2026-09-19 CLI tool with argparse |
 | 37 | 2026-09-20 | datetime module |
+| 38 | 2026-09-21 | Rule-based recommendation system |
