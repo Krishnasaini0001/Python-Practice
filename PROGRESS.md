@@ -38,3 +38,4 @@
 | 36 | 2026-09-19 CLI tool with argparse |
 | 37 | 2026-09-20 | datetime module |
 | 38 | 2026-09-21 | Rule-based recommendation system |
+| 39 | 2026-09-22 | Perceptron from scratch |
