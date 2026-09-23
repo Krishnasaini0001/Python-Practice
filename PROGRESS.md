@@ -39,3 +39,4 @@
 | 37 | 2026-09-20 | datetime module |
 | 38 | 2026-09-21 | Rule-based recommendation system |
 | 39 | 2026-09-22 | Perceptron from scratch |
+| 40 | 2026-09-23 | Mini project - spam text classifier |
