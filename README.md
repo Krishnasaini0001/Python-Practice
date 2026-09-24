@@ -1,4 +1,4 @@
- 100 Days of Python 🐍
+ # 100 Days of Python 🐍
 
 A daily practice log of small Python and AI/ML projects, one folder per day.
 The goal: consistent, real commits — not empty ones — while building up from
