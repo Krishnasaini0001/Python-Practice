@@ -57,3 +57,16 @@ python day-01/greeting.py
 | Days 38–40 | Applied mini projects — recommender, perceptron, spam classifier |
 
 *(Extends toward Day 100 as new topics are added.)*
+
+## ✅ Progress
+
+See the full day-by-day log in [`PROGRESS.md`](./PROGRESS.md).
+
+## 🎯 Why this repo exists
+
+To build a genuine daily coding habit — real, understandable code committed
+every day — rather than empty commits just to fill a contribution graph.
+
+## 📄 License
+
+MIT — feel free to fork this and start your own 100 days.
