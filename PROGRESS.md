@@ -35,7 +35,7 @@
 | 33 | 2026-09-16 | Scraping + saving to CSV |
 | 34 | 2026-09-17 | Virtual environments and requirements.txt |
 | 35 | 2026-09-18 | Unit testing with unittest |
-| 36 | 2026-09-19 CLI tool with argparse |
+| 36 | 2026-09-19 | CLI tool with argparse |
 | 37 | 2026-09-20 | datetime module |
 | 38 | 2026-09-21 | Rule-based recommendation system |
 | 39 | 2026-09-22 | Perceptron from scratch |
