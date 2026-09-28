@@ -44,3 +44,4 @@
 | 42 | 2026-09-25 | Generators - lazy Fibonacci sequence |
 | 43 | 2026-09-26 | Lambda, map, filter |
 | 44 | 2026-09-27 | SQLite basics |
+| 45 | 2026-09-28 | Student database CLI app |
