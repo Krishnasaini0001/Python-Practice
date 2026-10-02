@@ -48,3 +48,4 @@
 | 46 | 2026-09-29| K-Nearest Neighbors classifier |
 | 47 | 2026-09-30 | Visualizing a decision tree |
 | 48 | 2026-10-01 | K-Means clustering |
+| 49 | 2026-10-02 | Feature scaling |
