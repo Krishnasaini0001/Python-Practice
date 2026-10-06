@@ -50,3 +50,4 @@
 | 48 | 2026-10-01 | K-Means clustering |
 | 49 | 2026-10-02 | Feature scaling |
 | 50 | 2026-10-03 | Full ML pipeline |
+| 51 | 2026-10-04 | Regular expressions |
