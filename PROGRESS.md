@@ -52,3 +52,4 @@
 | 50 | 2026-10-03 | Full ML pipeline |
 | 51 | 2026-10-04 | Regular expressions |
 | 52 | 2026-10-06 | Reading/writing Excel files |
+| 53 | 2026-10-07 | Email automation concepts |
