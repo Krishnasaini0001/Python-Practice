@@ -53,3 +53,4 @@
 | 51 | 2026-10-04 | Regular expressions |
 | 52 | 2026-10-06 | Reading/writing Excel files |
 | 53 | 2026-10-07 | Email automation concepts |
+| 54 | 2026-10-08 | Environment variables for secrets |
