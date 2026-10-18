@@ -57,3 +57,4 @@
 | 55 | 2026-10-15 | Multithreading basics |
 | 56 | 2026-10-16 | Tiny neural network from scratch |
 | 57 | 2026-10-17 | First Keras neural network |
+| 58 | 2026-10-18 | MNIST digit classifier |
