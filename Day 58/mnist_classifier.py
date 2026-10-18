@@ -16,4 +16,4 @@ model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=
 model.fit(X_train, y_train, epochs=3, verbose=1)
 
 test_loss, test_acc = model.evaluate(X_test, y_test, verbose=0)
-print(f"Test accuracy: {test_acc:.2f}")
+print(f"Test Accuracy: {test_acc:.2f}")
