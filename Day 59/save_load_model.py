@@ -14,4 +14,4 @@ model.fit(X, y)
 joblib.dump(model, "model.pkl")
 
 loaded_model = joblib.load("model.pkl")
-print(f"Loaded model prediction for 5: {loaded_model.predict([[5]])[0]}")
+print(f"Loaded Model Prediction For 5: {loaded_model.predict([[5]])[0]}")
